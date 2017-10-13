@@ -1,0 +1,20 @@
+{
+  "name": "iamgd67-myfrontlib",
+  "homepage": "https://github.com/iamgd67/myfrontlib",
+  "authors": [
+    "iamgd67 <iamgd67@sina.com>"
+  ],
+  "description": "front html js css base things",
+  "main": "",
+  "keywords": [
+    "frontlib"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
