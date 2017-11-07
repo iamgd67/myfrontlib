@@ -20,6 +20,7 @@
   "dependencies": {
     "jquery": "1.*",
     "bootstrap": "3.*",
-    "font-awesome": "4.*"
+    "font-awesome": "4.*",
+    "bootstrap-datepicker": "^1.7.1"
   }
 }
