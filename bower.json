@@ -22,6 +22,7 @@
     "bootstrap": "3.*",
     "font-awesome": "4.*",
     "bootstrap-datepicker": "^1.7.1",
-    "kind-editor": "^4.1.11"
+    "kind-editor": "^4.1.11",
+    "highcharts": "hightcharts#^6.0.2"
   }
 }
