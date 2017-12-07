@@ -131,7 +131,7 @@
                         "top" : top
                     });
                 }
-                if (top > (jQuery(o.target).height() - 20)) {
+                if (top > (jQuery(o.target).height() - 20) && (jQuery(o.target).height() - 25)>0) {
                     jQuery(this).dialog("move", {
                         "left" : left,
                         "top" : (jQuery(o.target).height() - 25)
